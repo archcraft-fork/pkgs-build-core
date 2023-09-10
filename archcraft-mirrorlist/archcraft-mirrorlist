@@ -1,0 +1,4 @@
+############### Archcraft Mirrorlist ###############
+
+## Worldwide (Github)
+Server = https://archcraft-fork.github.io/pkgs/$arch
